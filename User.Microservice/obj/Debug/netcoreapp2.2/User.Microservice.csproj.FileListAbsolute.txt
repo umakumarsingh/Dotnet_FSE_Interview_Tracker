@@ -1,0 +1,36 @@
+D:\IIHT\Task_5\InterviewTrackerProject\Interviewtracker.WebApi\User.Microservice\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\IIHT\Task_5\InterviewTrackerProject\Interviewtracker.WebApi\User.Microservice\bin\Debug\netcoreapp2.2\appsettings.json
+D:\IIHT\Task_5\InterviewTrackerProject\Interviewtracker.WebApi\User.Microservice\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\IIHT\Task_5\InterviewTrackerProject\Interviewtracker.WebApi\User.Microservice\bin\Debug\netcoreapp2.2\User.Microservice.deps.json
+D:\IIHT\Task_5\InterviewTrackerProject\Interviewtracker.WebApi\User.Microservice\bin\Debug\netcoreapp2.2\User.Microservice.runtimeconfig.json
+D:\IIHT\Task_5\InterviewTrackerProject\Interviewtracker.WebApi\User.Microservice\bin\Debug\netcoreapp2.2\User.Microservice.runtimeconfig.dev.json
+D:\IIHT\Task_5\InterviewTrackerProject\Interviewtracker.WebApi\User.Microservice\bin\Debug\netcoreapp2.2\User.Microservice.dll
+D:\IIHT\Task_5\InterviewTrackerProject\Interviewtracker.WebApi\User.Microservice\bin\Debug\netcoreapp2.2\User.Microservice.pdb
+D:\IIHT\Task_5\InterviewTrackerProject\Interviewtracker.WebApi\User.Microservice\obj\Debug\netcoreapp2.2\User.Microservice.csprojAssemblyReference.cache
+D:\IIHT\Task_5\InterviewTrackerProject\Interviewtracker.WebApi\User.Microservice\obj\Debug\netcoreapp2.2\User.Microservice.AssemblyInfoInputs.cache
+D:\IIHT\Task_5\InterviewTrackerProject\Interviewtracker.WebApi\User.Microservice\obj\Debug\netcoreapp2.2\User.Microservice.AssemblyInfo.cs
+D:\IIHT\Task_5\InterviewTrackerProject\Interviewtracker.WebApi\User.Microservice\obj\Debug\netcoreapp2.2\User.Microservice.RazorAssemblyInfo.cache
+D:\IIHT\Task_5\InterviewTrackerProject\Interviewtracker.WebApi\User.Microservice\obj\Debug\netcoreapp2.2\User.Microservice.RazorAssemblyInfo.cs
+D:\IIHT\Task_5\InterviewTrackerProject\Interviewtracker.WebApi\User.Microservice\obj\Debug\netcoreapp2.2\User.Microservice.RazorTargetAssemblyInfo.cache
+D:\IIHT\Task_5\InterviewTrackerProject\Interviewtracker.WebApi\User.Microservice\obj\Debug\netcoreapp2.2\User.Microservice.dll
+D:\IIHT\Task_5\InterviewTrackerProject\Interviewtracker.WebApi\User.Microservice\obj\Debug\netcoreapp2.2\User.Microservice.pdb
+D:\IIHT\Task_5\InterviewTrackerProject\Interviewtracker.WebApi\User.Microservice\obj\Debug\netcoreapp2.2\User.Microservice.genruntimeconfig.cache
+D:\IIHT\Task_5\InterviewTrackerProject\Interviewtracker.WebApi\User.Microservice\obj\Debug\netcoreapp2.2\User.Microservice.csproj.CoreCompileInputs.cache
+D:\IIHT\Case Study\InterviewTrackerProject_Microservices\Interviewtracker.WebApi\User.Microservice\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\IIHT\Case Study\InterviewTrackerProject_Microservices\Interviewtracker.WebApi\User.Microservice\bin\Debug\netcoreapp2.2\appsettings.json
+D:\IIHT\Case Study\InterviewTrackerProject_Microservices\Interviewtracker.WebApi\User.Microservice\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\IIHT\Case Study\InterviewTrackerProject_Microservices\Interviewtracker.WebApi\User.Microservice\bin\Debug\netcoreapp2.2\User.Microservice.deps.json
+D:\IIHT\Case Study\InterviewTrackerProject_Microservices\Interviewtracker.WebApi\User.Microservice\bin\Debug\netcoreapp2.2\User.Microservice.runtimeconfig.json
+D:\IIHT\Case Study\InterviewTrackerProject_Microservices\Interviewtracker.WebApi\User.Microservice\bin\Debug\netcoreapp2.2\User.Microservice.runtimeconfig.dev.json
+D:\IIHT\Case Study\InterviewTrackerProject_Microservices\Interviewtracker.WebApi\User.Microservice\bin\Debug\netcoreapp2.2\User.Microservice.dll
+D:\IIHT\Case Study\InterviewTrackerProject_Microservices\Interviewtracker.WebApi\User.Microservice\bin\Debug\netcoreapp2.2\User.Microservice.pdb
+D:\IIHT\Case Study\InterviewTrackerProject_Microservices\Interviewtracker.WebApi\User.Microservice\obj\Debug\netcoreapp2.2\User.Microservice.csprojAssemblyReference.cache
+D:\IIHT\Case Study\InterviewTrackerProject_Microservices\Interviewtracker.WebApi\User.Microservice\obj\Debug\netcoreapp2.2\User.Microservice.AssemblyInfoInputs.cache
+D:\IIHT\Case Study\InterviewTrackerProject_Microservices\Interviewtracker.WebApi\User.Microservice\obj\Debug\netcoreapp2.2\User.Microservice.AssemblyInfo.cs
+D:\IIHT\Case Study\InterviewTrackerProject_Microservices\Interviewtracker.WebApi\User.Microservice\obj\Debug\netcoreapp2.2\User.Microservice.csproj.CoreCompileInputs.cache
+D:\IIHT\Case Study\InterviewTrackerProject_Microservices\Interviewtracker.WebApi\User.Microservice\obj\Debug\netcoreapp2.2\User.Microservice.RazorAssemblyInfo.cache
+D:\IIHT\Case Study\InterviewTrackerProject_Microservices\Interviewtracker.WebApi\User.Microservice\obj\Debug\netcoreapp2.2\User.Microservice.RazorAssemblyInfo.cs
+D:\IIHT\Case Study\InterviewTrackerProject_Microservices\Interviewtracker.WebApi\User.Microservice\obj\Debug\netcoreapp2.2\User.Microservice.RazorTargetAssemblyInfo.cache
+D:\IIHT\Case Study\InterviewTrackerProject_Microservices\Interviewtracker.WebApi\User.Microservice\obj\Debug\netcoreapp2.2\User.Microservice.dll
+D:\IIHT\Case Study\InterviewTrackerProject_Microservices\Interviewtracker.WebApi\User.Microservice\obj\Debug\netcoreapp2.2\User.Microservice.pdb
+D:\IIHT\Case Study\InterviewTrackerProject_Microservices\Interviewtracker.WebApi\User.Microservice\obj\Debug\netcoreapp2.2\User.Microservice.genruntimeconfig.cache
